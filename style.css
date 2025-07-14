@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    font-family: monospace;
+}
+#canvas{
+    border: 1px solid #ffffff;
+    background: #111;
+    display: block;
+    margin: auto;
+}
