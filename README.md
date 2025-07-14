@@ -1,2 +1,2 @@
-unfortunately not a very established project
+unfortunately not a very polished project  
 basically just sand falling down
